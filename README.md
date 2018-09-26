@@ -1,5 +1,5 @@
 
-![](logo.png)
+![](https://raw.githubusercontent.com/gmantaos/monogame-docker/master/logo.png)
 
 [![](https://img.shields.io/docker/pulls/gmantaos/monogame.svg)](https://hub.docker.com/r/gmantaos/monogame)
 [![](https://images.microbadger.com/badges/image/gmantaos/monogame.svg)](https://hub.docker.com/r/gmantaos/monogame)
