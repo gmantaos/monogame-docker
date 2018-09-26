@@ -1,6 +1,6 @@
 FROM mono:latest
 
-ARG MONOGAME_VERSION=3.5
+ARG MONOGAME_VERSION=3.6
 ENV MONOGAME_VERSION $MONOGAME_VERSION
 
 # Download monogame from the official repo
